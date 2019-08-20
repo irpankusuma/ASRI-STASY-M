@@ -36,9 +36,9 @@ Vue.use(vuetify,{
 });
 
 // AXIOS CONFIG
-const baseURL = 'http://10.10.0.28/WebServiceInventoryMAS/api/';
+const baseURL = 'http://10.10.0.28/WebServiceATKGA/api/';
 // const devURL = 'https://api.alam-sutera.com/InventoryMAS/api/';
-const devURL = 'http://10.10.0.28/WebServiceInventoryMAS/api/';
+const devURL = 'https://api.alam-sutera.com/InventoryMAS/api/';
 
 axios.defaults.baseURL = (process.env.NODE_ENV == 'production') ? baseURL : devURL;
 axios.defaults.headers.post['Content-Type'] = 'application/json'

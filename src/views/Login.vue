@@ -2,7 +2,7 @@
   <v-container grid-list-xs fluid text-xs-center>
     <!-- TOOLBAR -->
     <PageToolbar
-      :header="'ASRI-STASY'"
+      :header="'INVENTORYMAS'"
       :subheader="'Login'"
       :backButton="false"
       :isLoading="$store.state.loading"
@@ -15,7 +15,7 @@
         <v-card dark flat>
           <v-card-title primary-title>
             <h2 class="mb-3 text-uppercase">
-              ASRI-STASY
+              INVENTORYMAS
               <span class="font-weight-light">MANAGE</span>
             </h2>
           </v-card-title>

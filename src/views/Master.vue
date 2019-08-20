@@ -1,7 +1,7 @@
 <template>
   <v-container fluid>
     <PageToolbar
-      :header="'ASRI-STASY'"
+      :header="'INVENTORYMAS'"
       :subheader="'MASTER'"
       :isLoading="$store.state.loading"
     />

@@ -1,4 +1,4 @@
-# ASRI-STASY-MANAGE
+# INVENTORYMAS-MANAGE
 
 Untuk project ATK GA versi manage
 

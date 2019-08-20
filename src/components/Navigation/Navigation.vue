@@ -48,7 +48,7 @@ export default {
     loadList() {
       var id = {
         Session_ID: this.$session.get("SESSION_ID"),
-        IDX_M_Apps: 33
+        IDX_M_Apps: 41
       };
 
       this.axios
