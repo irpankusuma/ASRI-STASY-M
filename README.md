@@ -1,4 +1,4 @@
-# i-remas
+# ASRI-STASY-MANAGE
 
 ## Project setup
 ```
