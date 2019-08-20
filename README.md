@@ -1,5 +1,7 @@
 # ASRI-STASY-MANAGE
 
+Untuk project ATK GA versi manage
+
 ## Project setup
 ```
 npm install
